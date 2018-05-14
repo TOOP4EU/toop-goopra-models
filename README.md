@@ -1,2 +1,2 @@
 # toop-goopra-models
-TOPP GOOPRA
+TOOP GOOPRA
