@@ -22,14 +22,14 @@
         target="3e6a1743-ca92-4808-99b0-bca7b735848a">
       <bendpoints
           startY="165"
-          endX="-168"
-          endY="-3"/>
+          endX="-249"
+          endY="-2"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_0dda12ac-b3e6-4f3c-9006-db30d411ef7a.xml#0dda12ac-b3e6-4f3c-9006-db30d411ef7a"/>
     </sourceConnections>
     <bounds
-        x="108"
+        x="166"
         y="204"
         width="120"
         height="55"/>
@@ -46,9 +46,9 @@
         source="633520a0-8988-4351-ab73-ea91a0232e6b"
         target="3e6a1743-ca92-4808-99b0-bca7b735848a">
       <bendpoints
-          startX="-12"
-          startY="165"
-          endX="300"
+          startX="4"
+          startY="164"
+          endX="177"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
@@ -77,8 +77,8 @@
       id="166080e3-eaa3-4ee2-b3fc-f1304cb9c797"
       targetConnections="edd1f399-1d38-45fd-ba1f-09fbb575ec6b 6a62192e-8fb5-4ae7-8a8e-4a16a5528c65 4641644a-e524-461b-9bdc-62c9e7334e97 24b7a090-d3cb-41e3-ac33-fb2fc50ab8ac">
     <bounds
-        x="276"
-        y="204"
+        x="415"
+        y="203"
         width="120"
         height="55"/>
     <archimateElement
@@ -98,8 +98,8 @@
           href="AssociationRelationship_104f0a63-53e1-4f0b-a463-93317bc2bcf1.xml#104f0a63-53e1-4f0b-a463-93317bc2bcf1"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="120"
+        x="415"
+        y="119"
         width="120"
         height="55"/>
     <archimateElement
@@ -111,8 +111,8 @@
       id="3e6a1743-ca92-4808-99b0-bca7b735848a"
       targetConnections="ae88ac10-26a9-4d00-829b-981e0ecf8d4c 83560b20-b9ae-44b3-9e32-fd064b12d9d9 2210e3a6-6313-477f-8844-85106b890e98">
     <bounds
-        x="276"
-        y="372"
+        x="415"
+        y="371"
         width="120"
         height="55"/>
     <archimateElement
@@ -142,8 +142,8 @@
           href="AssociationRelationship_7d1a2648-8fe2-48e6-a649-00c16a5e52e0.xml#7d1a2648-8fe2-48e6-a649-00c16a5e52e0"/>
     </sourceConnections>
     <bounds
-        x="276"
-        y="288"
+        x="415"
+        y="287"
         width="120"
         height="55"/>
     <archimateElement
@@ -163,8 +163,8 @@
           href="AggregationRelationship_8f612fdf-b504-4331-9ce4-cce9b787be87.xml#8f612fdf-b504-4331-9ce4-cce9b787be87"/>
     </sourceConnections>
     <bounds
-        x="444"
-        y="288"
+        x="246"
+        y="287"
         width="120"
         height="55"/>
     <archimateElement
