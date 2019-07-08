@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="isa-dp-dicovery"
+    name="isa-dp-discovery"
     id="e916dc96-55d4-4c99-bcec-e12055223e62">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -47,15 +47,6 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_da827927-2ddd-46d4-ac84-a90f0d41bf26.xml#da827927-2ddd-46d4-ac84-a90f0d41bf26"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="28b676ea-1459-4077-9b5b-b5f81233d9b4"
-        source="dda8cb69-a80e-4206-99f6-6124cb689883"
-        target="b6ff888e-9e09-4382-ac90-8a099a1a2404">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_8fd510b8-baf6-4179-9a9d-aea51d76d20f.xml#8fd510b8-baf6-4179-9a9d-aea51d76d20f"/>
-    </sourceConnections>
     <bounds
         x="168"
         y="216"
@@ -89,7 +80,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b6ff888e-9e09-4382-ac90-8a099a1a2404"
-      targetConnections="28b676ea-1459-4077-9b5b-b5f81233d9b4 593f3e3b-56e3-4d54-8d4d-bf1619661137">
+      targetConnections="593f3e3b-56e3-4d54-8d4d-bf1619661137">
     <bounds
         x="168"
         y="291"
