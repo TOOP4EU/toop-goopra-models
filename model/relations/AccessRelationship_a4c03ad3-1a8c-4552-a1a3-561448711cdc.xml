@@ -5,8 +5,8 @@
     accessType="1">
   <source
       xsi:type="archimate:BusinessProcess"
-      href="BusinessProcess_5784b50a-20f4-422a-8ada-fa411ec90f3b.xml#5784b50a-20f4-422a-8ada-fa411ec90f3b"/>
+      href="BusinessProcess_3b12a3a5-c505-4878-a47b-ee9a8aa55cea.xml#3b12a3a5-c505-4878-a47b-ee9a8aa55cea"/>
   <target
       xsi:type="archimate:BusinessObject"
-      href="BusinessObject_59d6bacb-c304-4987-b2cc-e48e8a707b80.xml#59d6bacb-c304-4987-b2cc-e48e8a707b80"/>
+      href="BusinessObject_a1cb2694-59a2-45e9-9a4b-36b6ea280de7.xml#a1cb2694-59a2-45e9-9a4b-36b6ea280de7"/>
 </archimate:AccessRelationship>
