@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="dp-process"
+    name="dp-op-process"
     id="id-f2cbfe78a4184b54881b93b2bf5a9c4f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

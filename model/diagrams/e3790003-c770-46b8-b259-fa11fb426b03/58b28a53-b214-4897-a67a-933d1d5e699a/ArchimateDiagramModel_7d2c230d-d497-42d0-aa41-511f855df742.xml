@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="dc-process"
+    name="dc-op-process"
     id="7d2c230d-d497-42d0-aa41-511f855df742"
     documentation="Shows the functionalities (capabilities) required to execute the DC OOP process.">
   <children
