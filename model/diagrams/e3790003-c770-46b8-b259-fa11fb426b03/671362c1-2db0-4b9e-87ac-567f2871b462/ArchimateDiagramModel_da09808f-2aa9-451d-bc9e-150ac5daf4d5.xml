@@ -24,9 +24,9 @@
             href="CompositionRelationship_fd24ff74-b1d8-4265-98d4-55607ff715b1.xml#fd24ff74-b1d8-4265-98d4-55607ff715b1"/>
       </sourceConnections>
       <bounds
-          x="12"
+          x="6"
           y="48"
-          width="145"
+          width="157"
           height="109"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -42,9 +42,9 @@
               href="CompositionRelationship_dd4c4d58-3ef9-4377-b468-13b09d3fb82b.xml#dd4c4d58-3ef9-4377-b468-13b09d3fb82b"/>
         </sourceConnections>
         <bounds
-            x="12"
+            x="8"
             y="36"
-            width="120"
+            width="137"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
@@ -63,21 +63,21 @@
       id="885b8059-c553-4e76-9ce4-9625c0f59233">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="4560e910-82cd-4961-9f94-0807eabf2845"
-        source="885b8059-c553-4e76-9ce4-9625c0f59233"
-        target="49a5b89d-a0ee-4f95-a532-7ba6d944d53e">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_7c7a598a-4fff-4be9-9d6a-9dfa1c832a70.xml#7c7a598a-4fff-4be9-9d6a-9dfa1c832a70"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="1a05b8d8-6bb7-4c81-8d6e-79a2942a4365"
         source="885b8059-c553-4e76-9ce4-9625c0f59233"
         target="d8627cc8-999a-45fd-843a-c67a3042dede">
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_5c99763a-f135-4ba7-9340-be78afc609e8.xml#5c99763a-f135-4ba7-9340-be78afc609e8"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="4560e910-82cd-4961-9f94-0807eabf2845"
+        source="885b8059-c553-4e76-9ce4-9625c0f59233"
+        target="49a5b89d-a0ee-4f95-a532-7ba6d944d53e">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_7c7a598a-4fff-4be9-9d6a-9dfa1c832a70.xml#7c7a598a-4fff-4be9-9d6a-9dfa1c832a70"/>
     </sourceConnections>
     <bounds
         x="540"
