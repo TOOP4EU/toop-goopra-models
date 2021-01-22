@@ -17,6 +17,15 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
+        id="145900f1-f905-4655-a23c-0b3207e3af55"
+        source="be4680f0-211b-4b56-9fa4-a10e908b9097"
+        target="c3c82175-7256-4f7f-a791-2bb0ffd03ee3">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_593e85e0-28cb-4132-80b7-3f2d533fab4b.xml#593e85e0-28cb-4132-80b7-3f2d533fab4b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
         id="f67ee825-71ee-45f0-a336-e7827da30ee8"
         source="be4680f0-211b-4b56-9fa4-a10e908b9097"
         target="9332fe42-8096-4b39-bf24-54715ff1c492">
@@ -28,15 +37,6 @@
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_63f78902-72ed-4304-a261-93a9b76b13c5.xml#63f78902-72ed-4304-a261-93a9b76b13c5"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="145900f1-f905-4655-a23c-0b3207e3af55"
-        source="be4680f0-211b-4b56-9fa4-a10e908b9097"
-        target="c3c82175-7256-4f7f-a791-2bb0ffd03ee3">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_593e85e0-28cb-4132-80b7-3f2d533fab4b.xml#593e85e0-28cb-4132-80b7-3f2d533fab4b"/>
     </sourceConnections>
     <bounds
         x="96"
@@ -89,7 +89,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9332fe42-8096-4b39-bf24-54715ff1c492"
-      targetConnections="f67ee825-71ee-45f0-a336-e7827da30ee8 c0df5134-1041-41bf-9b4c-7517f195c024 51d2c3bd-5687-4cc8-b2e2-145b3e880965">
+      targetConnections="c0df5134-1041-41bf-9b4c-7517f195c024 51d2c3bd-5687-4cc8-b2e2-145b3e880965 f67ee825-71ee-45f0-a336-e7827da30ee8">
     <bounds
         x="576"
         y="456"
@@ -124,7 +124,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0411ea1b-23d6-42b9-b83f-a4dd672d87b0"
-      targetConnections="9dabaeeb-3cb6-46ae-9ba5-eb14fc5ea7e1 bc8d37ee-fd83-4396-938c-a45491b85d88">
+      targetConnections="bc8d37ee-fd83-4396-938c-a45491b85d88 9dabaeeb-3cb6-46ae-9ba5-eb14fc5ea7e1">
     <bounds
         x="96"
         y="217"
